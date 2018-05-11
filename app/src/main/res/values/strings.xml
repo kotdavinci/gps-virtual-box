@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">gps-virtual-box</string>
+    <string name="title">GPS Virtual Box</string>
+    <string name="location_settings">Location settings</string>
+    <string name="provider_network">Network</string>
+    <string name="provider_gps">GPS</string>
+    <string name="show_gui">Show GUI</string>
+
+</resources>

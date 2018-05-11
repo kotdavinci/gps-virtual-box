@@ -1,0 +1,15 @@
+*.iml
+.idea/
+.DS_Store
+/captures
+.externalNativeBuild
+
+# Android Studio
+.gradle
+/local.properties
+/.idea/workspace.xml
+/build
+
+# Built application files
+*.apk
+*.ap_

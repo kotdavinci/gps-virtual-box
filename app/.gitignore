@@ -1,0 +1,7 @@
+# Gradle?
+/build
+
+# Intellij
+.idea/
+*.iml
+*.iws
